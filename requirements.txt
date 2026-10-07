@@ -1,0 +1,5 @@
+anthropic>=1.11
+langgraph>=1.2
+mcp>=2.3
+python-dotenv>=1.2
+pytest>=9.0
